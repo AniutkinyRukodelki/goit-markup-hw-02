@@ -234,10 +234,10 @@ color: var(--accent-color);
     letter-spacing: 0.06em;
     color: var(--primary-text-color);
 }
-
 .our-practice {
-font-weight: 400;
-line-height: 1.88;
-letter-spacing: 0.03em;
+    font-weight: 400;
+    line-height: 1.88;
+    letter-spacing: 0.03em;
+
 }
 /* ============= /PORTFOLIO COMPONENTS ============= */
