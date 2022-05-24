@@ -25,7 +25,6 @@ address {font-style: normal;}
 
 body {
     font-family: var(--main-font);
-    background: var(--background-color);
     font-size: 16px;
     color: var(--secondary-text-color);
 }
@@ -75,9 +74,6 @@ body {
 /* ============= /COMPONENTS ============= */
 
 /* ============= HEADER ============= */
-.page-header {
-    background: var(--secondary-color)
-}
 .logo-text-blue {
     font-family: var(--secondary-font);
     font-weight: 700;
@@ -128,7 +124,7 @@ color: var(--accent-color);
 /* ============= /HEADER ============= */
 
 /* ============= HERO ============= */
-.hero {background: var(--background-color-dark);
+.hero {background-color: var(--background-color-dark);
 }
 .hero-title {
     font-weight: 900;
